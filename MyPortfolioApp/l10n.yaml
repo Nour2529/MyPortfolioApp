@@ -1,0 +1,3 @@
+arb-dir: lib/config/l10n #localisation des fichiers de traduction
+template-arb-file: app_en.arb #premier fichier de traduction qui va etre ouvert
+output-localization-file: app_localizations.dart
